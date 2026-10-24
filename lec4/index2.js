@@ -22,5 +22,7 @@ console.log("this is string tutorial")
                  console.log(b.toLowerCase())
                    console.log(b.slice(0,3))
                     console.log(b.slice(1))
-                     console.log(b.replace("Sh"))
-               
+                     console.log(b.replace("Sh","57"))
+            console.log(b.concat(a,"Aishavriya","prince","amit"))
+
+             console.log(b)
